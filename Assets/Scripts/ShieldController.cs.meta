@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: afd086bf281c0cf4d8e3616d01cf114f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hotShield: {fileID: 4285000539510797195, guid: 379b726012d60ef48a00c7cc43188195, type: 3}
+  - coldShield: {fileID: 1239370975650256944, guid: bea33344202813246aa20245f0abc8e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
